@@ -117,14 +117,14 @@ h6
 .bulb-off{
     width: 265px;
     height: 400px;
-    background: url('lightoff.png') no-repeat;
+    background: url('red.jpg') no-repeat;
     margin: auto;
 }
 
 .bulb-on{
     width: 265px;
     height: 400px;
-    background: url('lighton.png') no-repeat;;
+    background: url('bluwe.jpg') no-repeat;;
     margin: auto;
 }
 
